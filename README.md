@@ -1,2 +1,2 @@
 # SppechGenie
-An AI assistant is a type of software that uses AI technology to perform tasks or provide information to users. These tasks can include scheduling appointments, answering questions, or even controlling other devices. AI assistants are becoming increasingly popular and are found in everything from smartphones to home devices.
+This virtual assistant leverages speech recognition and text-to-speech to respond to your voice commands and assist you with various tasks. It can greet you, perform web searches using Google, open YouTube or your videos directory, and tell you the current time. Additionally, it boasts a note-taking feature that allows you to capture your thoughts and ideas by simply speaking them aloud.
